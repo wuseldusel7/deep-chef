@@ -1,5 +1,5 @@
 # deep-chef
-Recipe recommender/creator based on given ingredients
+Recipe recommender/generator based on given ingredients
 
 
 This is a work in progress project. 
